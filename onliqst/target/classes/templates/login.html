@@ -1,13 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" class="html-login" xmlns:th="http://www.thymeleaf.org">
 <head>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge; text/html"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="UTF-8">
-    <title>Online Liquor Store</title>
-    <link rel="stylesheet" th:href="@{/webjars/bootstrap/4.0.0/css/bootstrap.min.css}">
-    <script th:src="@{/webjars/jquery/3.1.1/jquery.min.js}"></script>
-    <script th:src="@{/webjars/bootstrap/4.0.0/js/bootstrap.min.js}"></script>
+    <div th:replace="fragments/header :: header"></div>
     <link href="../../webapp/resources/css/login.css" th:href="@{/css/login.css}" type="text/css" media="all" rel="stylesheet" />
     <script href="../../webapp/resources/js/login.js" th:href="@{/js/login.js}" type="text/javascript"></script>
 
@@ -32,7 +26,7 @@
                                             </div>
                                         </div>
                                         <div class="col-md-6 forgot-pass-content">
-                                            <a href="javascript:void(0)" class="forgot-pass">Olvido su contraseña</a>
+                                            <a href="javascription:void(0)" class="forgot-pass">Olvido su contraseña</a>
                                         </div>
                                     </div>
                                 </div>
