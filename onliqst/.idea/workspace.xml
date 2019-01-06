@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84fa4222-f9bc-4941-99f2-905c1faaa123" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -103,11 +103,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="269">
               <caret line="1512" column="0" lean-forward="true" selection-start-line="1512" selection-start-column="0" selection-end-line="1512" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -166,6 +176,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/fragments/header.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/login.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -326,7 +337,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="C:/VIALIDAD-DPV" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelOrder0" value="0" />
@@ -337,22 +348,23 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\OnlineLiquorStore\onliqst\src\main\webapp\resources\img" />
-      <recent name="C:\OnlineLiquorStore\onliqst\src\main\webapp\resources" />
-      <recent name="C:\OnlineLiquorStore\onliqst\src\main\webapp\resources\css" />
-      <recent name="C:\OnlineLiquorStore\onliqst\src\main\webapp\resources\js" />
-      <recent name="C:\OnlineLiquorStore\onliqst\src\main\webaps\resources\css" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OnlineLiquorStore\onliqst" />
+      <recent name="C:\OnlineLiquorStore\onliqst\src\main\resources\fragments" />
+      <recent name="C:\OnlineLiquorStore\onliqst\src\main\resources" />
+      <recent name="C:\OnlineLiquorStore\onliqst\src\main\java\com\liquor\store\onliqst" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.liquor.store.onliqst.security" />
       <recent name="com.liquor.store.onliqst.Models" />
       <recent name="com.liquor.store.onliqst.Repositories" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\OnlineLiquorStore\onliqst\src\main\resources\fragments" />
-      <recent name="C:\OnlineLiquorStore\onliqst\src\main\resources" />
-      <recent name="C:\OnlineLiquorStore\onliqst\src\main\java\com\liquor\store\onliqst" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OnlineLiquorStore\onliqst\src\main\webapp\resources\img" />
+      <recent name="C:\OnlineLiquorStore\onliqst\src\main\webapp\resources" />
+      <recent name="C:\OnlineLiquorStore\onliqst\src\main\webapp\resources\css" />
+      <recent name="C:\OnlineLiquorStore\onliqst\src\main\webapp\resources\js" />
+      <recent name="C:\OnlineLiquorStore\onliqst\src\main\webaps\resources\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -471,12 +483,12 @@
       <workItem from="1546209241726" duration="9438000" />
       <workItem from="1546287948859" duration="15521000" />
       <workItem from="1546473609599" duration="6185000" />
-      <workItem from="1546728424314" duration="4085000" />
+      <workItem from="1546728424314" duration="4854000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39910000" />
+    <option name="totallyTimeSpent" value="40679000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -525,14 +537,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liquor/store/onliqst/config/PersistenceConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -940,14 +944,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="4" column="79" lean-forward="false" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fragments/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -956,10 +952,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="4" column="79" lean-forward="false" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
           <caret line="1512" column="0" lean-forward="true" selection-start-line="1512" selection-start-column="0" selection-end-line="1512" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
           <folding />
         </state>
       </provider>
