@@ -2,70 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84fa4222-f9bc-4941-99f2-905c1faaa123" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/header.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/css/nouislider.min.css" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/nouislider.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/css/slick-theme.css" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/slick-theme.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/css/slick.css" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/slick.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/css/style.css" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fonts/fontawesome-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/fonts/slick.eot" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fonts/slick.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/fonts/slick.svg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fonts/slick.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/fonts/slick.ttf" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fonts/slick.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/fonts/slick.woff" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fonts/slick.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/banner01.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/banner01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/banner02.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/banner02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/banner03.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/banner03.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/banner04.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/banner04.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/banner05.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/banner05.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/banner06.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/banner06.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/banner07.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/banner07.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/banner08.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/banner08.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/banner09.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/banner09.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/banner10.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/banner10.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/banner11.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/banner11.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/banner12.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/banner12.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/banner13.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/banner13.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/banner14.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/banner14.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/banner15.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/banner15.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/logo.png" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/main-product01.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/main-product01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/main-product02.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/main-product02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/main-product03.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/main-product03.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/main-product04.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/main-product04.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/product01.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/product01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/product02.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/product02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/product03.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/product03.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/product04.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/product04.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/product05.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/product05.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/product06.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/product06.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/product07.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/product07.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/product08.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/product08.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/thumb-product01.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/thumb-product01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/thumb-product02.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/thumb-product02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/thumb-product03.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/thumb-product03.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/img/thumb-product04.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/thumb-product04.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/js/jquery.min.js" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/jquery.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/js/jquery.zoom.min.js" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/jquery.zoom.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/js/main.js" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/js/nouislider.min.js" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/nouislider.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/js/slick.min.js" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/slick.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/blank.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/blank.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/checkout.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/checkout.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/product-page.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/product-page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/products.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/products.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/templates/index.html" afterPath="$PROJECT_DIR$/target/classes/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/templates/login.html" afterPath="$PROJECT_DIR$/target/classes/templates/login.html" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,28 +22,8 @@
       <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="-85">
               <caret line="4" column="79" lean-forward="false" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/login.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1989">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="1490" column="266" lean-forward="false" selection-start-line="1490" selection-start-column="266" selection-end-line="1490" selection-end-column="266" />
               <folding />
             </state>
           </provider>
@@ -153,7 +72,7 @@
       <file leaf-file-name="AppUserDetailsService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/liquor/store/onliqst/security/AppUserDetailsService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
+            <state relative-caret-position="-51">
               <caret line="18" column="54" lean-forward="false" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -175,11 +94,21 @@
       <file leaf-file-name="SecurityConfig.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/liquor/store/onliqst/config/SecurityConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="425">
               <caret line="25" column="34" lean-forward="false" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="1512" column="0" lean-forward="true" selection-start-line="1512" selection-start-column="0" selection-end-line="1512" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -204,6 +133,7 @@
       <find>webapp/resources/img/product01.jpg</find>
       <find>webapp/resources/img/product</find>
       <find>/webapp/resources/img/logo.png</find>
+      <find>poppe</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -266,10 +196,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -391,6 +319,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -541,14 +471,16 @@
       <workItem from="1546209241726" duration="9438000" />
       <workItem from="1546287948859" duration="15521000" />
       <workItem from="1546473609599" duration="6185000" />
+      <workItem from="1546728424314" duration="4085000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35825000" />
+    <option name="totallyTimeSpent" value="39910000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -558,28 +490,28 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26285347" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19987147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34864864" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3783784" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -948,32 +880,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liquor/store/onliqst/config/SecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="25" column="34" lean-forward="false" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/liquor/store/onliqst/repositories/UserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.2.RELEASE/spring-security-core-5.1.2.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetailsService.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -982,10 +888,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/liquor/store/onliqst/security/AppUserDetailsService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
+        <state relative-caret-position="-51">
           <caret line="18" column="54" lean-forward="false" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liquor/store/onliqst/config/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="34" lean-forward="false" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1000,6 +924,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liquor/store/onliqst/repositories/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="4" column="79" lean-forward="false" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fragments/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1008,26 +956,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="79" lean-forward="false" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/login.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1989">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="1490" column="266" lean-forward="false" selection-start-line="1490" selection-start-column="266" selection-end-line="1490" selection-end-column="266" />
+        <state relative-caret-position="269">
+          <caret line="1512" column="0" lean-forward="true" selection-start-line="1512" selection-start-column="0" selection-end-line="1512" selection-end-column="0" />
           <folding />
         </state>
       </provider>
